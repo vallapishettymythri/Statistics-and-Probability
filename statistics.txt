@@ -1,0 +1,36 @@
+Statistics- It is a way of solving a problem with the help of Data.
+Branch of mathematics that involves collecting, analysis, interpreting
+and predicting Data.
+
+There are two types of statistics.
+1. Descriptive Statistics-
+Description or detail of the data. 
+2. Inferential Ststistics-
+Based on the sample data, we are making a conclusion about the population.
+
+
+Types of data
+We are having 2 types of datatypes:
+1. Numerical -It is dealing with numbers.
+Eg- age, weight, height
+
+Types-
+Discrete- If we conver a data into fraction & it is not at all making sense.
+Eg- Rank -1st ,2nd 
+We can say I have 2.5 cars.
+Continuous- If we convert a data into fraction it will still make sense.
+Eg- 5.4 height. 50.5 kgs weight.
+
+2. Categorical- Dealing with a group or category.
+Eg- Gender
+
+Types-
+Nominal-It is used or labelling. It wont have any natural order.
+eg-Gender 
+
+Ordinal-Nominal data with natural order.
+Eg- Education- order
+    Graduate 
+    Post Graduate
+    Phd
+
