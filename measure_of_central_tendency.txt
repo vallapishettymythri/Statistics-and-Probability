@@ -1,0 +1,20 @@
+Measure of Central Tendencies:
+"First Moment business decision"
+It is a statisical measure that represents a typical or Central
+Value for a dataset. 
+1. Mean- Sum of all values in the dataset divided by the number of values.
+mean=sum of all observations/total number of observations
+         n 
+mean=1/n E xi
+        i=1
+Meu(u)=Population mean
+X bar=Sample mean
+-Due to outliers(have a highest data) using mean, can change the number into a lot of difference due to the 
+one outlier or large number present. In simple words Mean is getting influenced by the outliers.
+
+2. Median-Middle value in the dataset when the data is arranged in order.
+-Median isnt impacted that much by outlier. But if outliers are more than 50 percent of data.
+
+3. Mode-Value that appears most frequently in the dataset.
+We use mode when we deal with categorical column.
+
