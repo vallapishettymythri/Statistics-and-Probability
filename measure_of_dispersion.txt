@@ -1,0 +1,14 @@
+Measure of Dispersion:
+"Second moment business decision"
+Describes the spread of Data around centre.
+
+1.Range- The difference between maximum and minimum value.
+Range=max(value)-min(value)
+-Affected by Outliers.
+
+2.Variance- Average of the square differenced between each data point and the mean. 
+             n
+sigma**2=1/n E (meu-x)**2
+            i=1
+
+3. Standard Deviation= sqrt root of variance.
