@@ -1,0 +1,10 @@
+5 Number Summary- 
+It is a descriptive statistic that provides a summary of a dataset.
+It consists of five values that divide the dataset into 4 equal parts.
+1. Minimum value
+2. First quartile(Q1)
+3. Median(Q2)
+4. Third Quartile(Q3)
+5.  Maximum value
+
+
