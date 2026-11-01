@@ -1,0 +1,7 @@
+Random Variables-
+A random variable is a set of possible values from a random experiment.
+
+Types of Random Variable-
+1. Discrete RV- Who has discrete values. Eg-1,2,3,4,5
+2. Continous RV- Range of value Eg- 8.6, 6.66
+
