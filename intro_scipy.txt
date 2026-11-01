@@ -1,0 +1,9 @@
+Scipy is a scientific computation library that uses numpy.
+It stands for scientific python.
+Install-
+Pip Install Scipy
+
+Import- 
+import scipy.stats as stats
+
+scipy.stats is a module inside SciPy that provides statistical functions.
