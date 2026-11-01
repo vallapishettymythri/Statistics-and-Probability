@@ -1,0 +1,7 @@
+Interquartile Range-
+The interquartile range(IQR) is a measure of variability that is based on the five-number summary dataset.
+IQR= 75th percentile - 25th percentile
+        Q3                  Q1
+
+We can say that 50% of a values are lies in this range.
+-Measures spread of the middle 50% of the data.
