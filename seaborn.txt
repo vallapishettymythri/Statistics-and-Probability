@@ -1,0 +1,61 @@
+Seaborn is a Python data visualization library built on top of Matplotlib. 
+It provides a high-level interface for creating attractive and informative statistical graphs
+
+import seaborn as sns
+
+basic seaborn syntax-
+sns.plot_function(data=df, x="column1", y="column2")
+Parameter	Purpose
+data	Specifies the dataset
+x	    Specifies X-axis variable
+y	    Specifies Y-axis variable
+hue	    Separates data using different colors based on a variable
+legend	Controls legend display
+
+
+Histogram
+Function: sns.histplot()
+
+Purpose: Displays the frequency distribution of numerical data.
+
+KDE plot
+Function: sns.kdeplot()
+
+Purpose: Displays a smooth estimate of the probability density distribution.
+
+ECDF plot
+Function: sns.ecdfplot()
+
+Purpose: Displays the empirical cumulative distribution function.
+
+
+Scatter Plot — sns.scatterplot()
+Shows the relationship between two numerical variables.
+
+Line Plot — sns.lineplot()
+Shows trends or changes across an ordered variable, such as time.
+
+Regression Plot — sns.regplot()
+Shows the relationship between two numerical variables along with a fitted regression line.
+
+Bar Plot — sns.barplot()
+Displays an aggregate statistic (mean by default) for each category, with an uncertainty interval by default.
+
+Box Plot — sns.boxplot()
+Shows median, quartiles, spread, and potential outliers.
+
+Violin Plot — sns.violinplot()
+Shows the distribution and density of numerical data across categories.
+
+Heatmap — sns.heatmap()
+Visualizes values in a matrix. Commonly used to display correlation between numerical variables.
+
+Pair Plot — sns.pairplot()
+Displays pairwise relationships between multiple numerical variables.
+
+Joint Plot — sns.jointplot()
+Combines a relationship plot with the individual distributions of both variables.
+
+Facet Grid-
+sns.FacetGrid()	
+Compare relationships across categories
