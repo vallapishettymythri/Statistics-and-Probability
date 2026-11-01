@@ -1,0 +1,11 @@
+Percentile-
+Divide a data into 100 parts.
+np.percentile(data,value)
+
+Quartile-
+Dividing a data into 4 parts. 
+25th Percentile- 1st Quartile
+50th Percentile- 2nd Quartile
+75th Percentile- 3rd Quartile 
+
+Makes understand distribution pf data and even can identify outliers.
