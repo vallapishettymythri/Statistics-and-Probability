@@ -1,0 +1,6 @@
+Displays the distribution of numerical data using quartiles, median, whiskers and potential outliers.
+
+syntax:
+plt.boxplot()
+
+
