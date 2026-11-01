@@ -1,0 +1,43 @@
+Matplotlib is a Python data visualization library used to create graphs, charts and plots from numerical data.
+
+to install- pip install Matplotlib
+to import- import matplotlib.pyplot as plt
+
+With Line-
+
+import matplotlib.pyplot as plt
+import numpy as np
+
+xpoints = np.array([1, 8])
+ypoints = np.array([3, 10])
+
+plt.plot(xpoints, ypoints)
+plt.show()
+
+ plot() function is used to draw points (markers) in a diagram.
+ and line too.
+
+
+Parameter 1 is an array containing the points on the x-axis.
+
+Parameter 2 is an array containing the points on the y-axis.
+
+Plotting Without Line-
+
+To plot only the markers, you can use shortcut string notation parameter 'o', which means 'rings'.
+import matplotlib.pyplot as plt
+import numpy as np
+
+xpoints = np.array([1, 8])
+ypoints = np.array([3, 10])
+
+plt.plot(xpoints, ypoints, 'o')
+plt.show()
+
+
+plt.xlabel()- name for x axis
+plt.ylabel()-name for y axis
+
+title()- name for a plot
+
+grid()- add grid lines to the plot.
