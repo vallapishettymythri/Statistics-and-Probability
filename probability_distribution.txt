@@ -1,0 +1,10 @@
+Probability Distribution:
+A probability distribution is a list of all probability outcomes of a random variable
+Along with their correspoding probability values.
+
+Probability Distribution Function types:
+It will map the sample space to the real value and real value with probability.
+
+Discrete- PMF(Probability Mass function)
+Continuous- PDF(Probability Density Function) 
+
