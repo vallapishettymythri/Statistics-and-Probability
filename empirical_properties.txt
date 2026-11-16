@@ -1,0 +1,15 @@
+Empirical Rule: 
+
+P(mu - k*sigma <= X <= mu + k*sigma) = erf(k / sqrt(2))
+- k = 1: ~68.27% (0.682689)
+- k = 2: ~95.45% (0.954500)
+- k = 3: ~99.73% (0.997300)
+
+Exact PDF: f(x) = (1 / (sigma * sqrt(2 * pi))) * exp(-0.5 * ((x - mu) / sigma)^2)
+
+
+ Approximately 68.27% of the data falls within one standard deviation of the mean.
+ Approximately 95.45% of the data falls within two standard deviations of the mean.
+ Approximately 99.73% of the data falls within three standard deviations of the mean.
+
+ 
